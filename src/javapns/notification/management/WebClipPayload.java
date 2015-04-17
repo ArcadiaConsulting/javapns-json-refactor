@@ -1,6 +1,6 @@
 package javapns.notification.management;
 
-import org.json.*;
+import javapns.org.json.*;
 
 /**
  * An MDM payload for WebClip.

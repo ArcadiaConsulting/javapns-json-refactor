@@ -9,8 +9,8 @@ import javapns.devices.*;
 import javapns.devices.implementations.basic.*;
 import javapns.notification.*;
 import javapns.notification.transmission.*;
+import javapns.org.json.*;
 
-import org.json.*;
 
 /**
  * Specific test cases intended for the project's developers.

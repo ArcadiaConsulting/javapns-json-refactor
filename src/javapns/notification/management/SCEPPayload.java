@@ -1,8 +1,8 @@
 package javapns.notification.management;
 
 import java.util.*;
+import javapns.org.json.*;
 
-import org.json.*;
 
 /**
  * An MDM payload for SCEP (Simple Certificate Enrollment Protocol).

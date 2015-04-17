@@ -8,8 +8,8 @@ import javapns.devices.*;
 import javapns.devices.implementations.basic.*;
 import javapns.notification.*;
 import javapns.notification.transmission.*;
+import javapns.org.json.*;
 
-import org.json.*;
 
 /**
  * A command-line test facility for the Push Notification Service.
