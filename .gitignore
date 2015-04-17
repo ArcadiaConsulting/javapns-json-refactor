@@ -1,1 +1,5 @@
-Added patch files to ignore list
+.classpath
+.project
+.settings
+target
+
